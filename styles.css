@@ -652,6 +652,19 @@ cite { color: var(--soft); font-style: normal; font-weight: 800; }
   top: 126px;
 }
 
+.form-intro {
+  margin-bottom: 22px;
+}
+
+.form-intro h2 {
+  margin: 0 0 8px;
+}
+
+.form-intro p {
+  margin: 0;
+  color: var(--soft);
+}
+
 .contact-line {
   display: block;
   padding: 16px 0;
@@ -705,6 +718,32 @@ textarea:focus {
 .form-note {
   margin: 12px 0 0;
   font-size: 0.88rem;
+}
+
+.hidden-field {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.form-status {
+  min-height: 20px;
+  margin: 12px 0 0;
+  color: var(--green);
+  font-size: 0.9rem;
+  font-weight: 850;
+}
+
+.form-status.is-error {
+  color: var(--brick);
+}
+
+button:disabled,
+.btn:disabled {
+  cursor: wait;
+  opacity: 0.72;
 }
 
 .legal-page {

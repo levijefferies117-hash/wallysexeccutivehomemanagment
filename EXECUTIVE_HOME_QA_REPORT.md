@@ -58,7 +58,8 @@ Image polish:
 
 - Phone CTAs use `tel:+61419466148`.
 - Email links use `mailto:wally@executivehome.com.au`.
-- Contact form prepares a quote email to `wally@executivehome.com.au`.
+- Contact form posts to `api/quote-request.js` and is backend-ready for Vercel + Resend.
+- Required launch env vars are documented in `RESEND_FORM_SETUP.md`.
 
 ## Notes Before Sending
 
