@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://executivehome.com.au/sitemap.xml

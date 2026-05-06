@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+  <title id="title">Roof repair visual</title>
+  <desc id="desc">Roof tiles, ridge capping and repair tools in the Executive Home brand colours.</desc>
+  <rect width="720" height="540" fill="#10243A"/>
+  <path d="M0 390h720v150H0Z" fill="#171A1D"/>
+  <path d="M75 314 360 110l285 204-34 49-251-178-251 178Z" fill="#C99A2E"/>
+  <path d="M126 346h468v110H126Z" fill="#E8E1D6"/>
+  <g fill="#9E3F32">
+    <path d="M132 332h82l-45 54H87Z"/>
+    <path d="M214 332h82l-45 54h-82Z"/>
+    <path d="M296 332h82l-45 54h-82Z"/>
+    <path d="M378 332h82l-45 54h-82Z"/>
+    <path d="M460 332h82l-45 54h-82Z"/>
+    <path d="M542 332h82l-45 54h-82Z"/>
+  </g>
+  <path d="M167 407h388" stroke="#10243A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M230 451h260" stroke="#2F353A" stroke-width="16" stroke-linecap="round"/>
+  <path d="M510 173c24 28 30 59 16 92" fill="none" stroke="#F6F3ED" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="532" cy="277" r="18" fill="#C99A2E"/>
+</svg>

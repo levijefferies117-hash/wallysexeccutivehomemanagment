@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Wally's Executive Home Management</title>
+  <meta name="description" content="Contact Wally's Executive Home Management for Canberra property repairs, roof repairs, painting, carpentry, plastering, renovations and maintenance.">
+  <link rel="canonical" href="https://executivehome.com.au/contact.html">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header" data-header>
+    <div class="topbar"><span>Canberra based</span><span>Licensed ACT & NSW trades</span><a href="mailto:wally@executivehome.com.au">wally@executivehome.com.au</a></div>
+    <nav class="nav-shell" aria-label="Main navigation">
+      <a class="brand" href="index.html"><span class="brand-mark">EHM</span><span><strong>Wally's Executive</strong><small>Home Management</small></span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-menu"><span></span><span></span><span></span></button>
+      <div class="site-menu" id="site-menu"><a href="services.html">Services</a><a href="projects.html">Projects</a><a href="reviews.html">Reviews</a><a href="about.html">About</a><a href="contact.html" aria-current="page">Contact</a></div>
+      <a class="nav-call" href="tel:+61419466148">Call Wally</a>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="page-hero contact-hero">
+      <p class="eyebrow">Contact</p>
+      <h1>Tell Wally what needs fixing or improving.</h1>
+      <p>Call directly for the fastest path, or send the quote form with your property details and the service you need.</p>
+    </section>
+    <section class="section contact-layout">
+      <aside class="contact-card">
+        <h2>Direct contact</h2>
+        <a class="contact-line" href="tel:+61419466148"><span>Phone</span><strong>0419 466 148</strong></a>
+        <a class="contact-line" href="mailto:wally@executivehome.com.au"><span>Email</span><strong>wally@executivehome.com.au</strong></a>
+        <div class="contact-line"><span>Postal</span><strong>P.O. Box 316, Gungahlin Town Center ACT 2912</strong></div>
+        <div class="contact-line"><span>Hours</span><strong>Monday-Friday, 8:00am-4:00pm</strong></div>
+      </aside>
+      <form class="quote-form" data-quote-form>
+        <input class="hidden-field" type="text" name="honey" tabindex="-1" autocomplete="off">
+        <div class="form-row">
+          <label for="name">Full name</label>
+          <input id="name" name="name" type="text" autocomplete="name" required>
+        </div>
+        <div class="form-row split">
+          <div>
+            <label for="phone">Phone</label>
+            <input id="phone" name="phone" type="tel" autocomplete="tel" required>
+          </div>
+          <div>
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" autocomplete="email" required>
+          </div>
+        </div>
+        <div class="form-row split">
+          <div>
+            <label for="suburb">Property suburb</label>
+            <input id="suburb" name="suburb" type="text" autocomplete="address-level2">
+          </div>
+          <div>
+            <label for="service">Service needed</label>
+            <select id="service" name="service" required>
+              <option value="">Select a service</option>
+              <option>Roof repairs</option>
+              <option>Painting and decorating</option>
+              <option>Carpentry or decking</option>
+              <option>Bathroom, kitchen or laundry renovation</option>
+              <option>Plastering or wall repair</option>
+              <option>Tiling, doors, windows, sheds or carports</option>
+              <option>General repairs or maintenance</option>
+              <option>Other / not sure yet</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <label for="message">What needs doing?</label>
+          <textarea id="message" name="message" rows="7" required></textarea>
+        </div>
+        <button class="btn btn-primary" type="submit">Send Quote Request</button>
+        <p class="form-status" data-form-status aria-live="polite"></p>
+        <p class="form-note">Sends your quote request through the website email system. For urgent issues, call Wally directly.</p>
+      </form>
+    </section>
+  </main>
+  <footer class="site-footer compact-footer"><span>© <span data-year></span> Wally's Executive Home Management.</span><a href="privacy.html">Privacy</a><a href="contact.html">Contact</a></footer>
+  <script src="script.js"></script>
+</body>
+</html>

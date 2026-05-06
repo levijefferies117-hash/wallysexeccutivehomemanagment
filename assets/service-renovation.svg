@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+  <title id="title">Bathroom, kitchen and laundry renovation visual</title>
+  <desc id="desc">Renovation surfaces, cabinetry and tiling in a clean property improvement scene.</desc>
+  <rect width="720" height="540" fill="#10243A"/>
+  <path d="M55 92h610v356H55Z" fill="#F6F3ED"/>
+  <path d="M55 92h610v86H55Z" fill="#E8E1D6"/>
+  <g fill="#3F6F8F">
+    <rect x="110" y="224" width="142" height="176" rx="8"/>
+    <rect x="289" y="224" width="142" height="176" rx="8"/>
+    <rect x="468" y="224" width="142" height="176" rx="8"/>
+  </g>
+  <path d="M128 267h106M307 267h106M486 267h106" stroke="#F6F3ED" stroke-width="12" stroke-linecap="round"/>
+  <path d="M128 320h70M307 320h70M486 320h70" stroke="#F6F3ED" stroke-width="12" stroke-linecap="round"/>
+  <path d="M106 177h508" stroke="#C99A2E" stroke-width="13" stroke-linecap="round"/>
+  <path d="M108 432h504" stroke="#171A1D" stroke-width="18" stroke-linecap="round"/>
+</svg>

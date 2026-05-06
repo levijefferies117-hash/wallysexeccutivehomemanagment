@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 760" role="img" aria-labelledby="title desc">
+  <title id="title">Canberra multi-trade property work</title>
+  <desc id="desc">A polished trade-business illustration showing a home, roof repair, painting, carpentry and maintenance tools.</desc>
+  <rect width="920" height="760" fill="#10243A"/>
+  <path d="M0 567c168-69 293-83 437-45 137 36 258 33 483-77v315H0Z" fill="#171A1D"/>
+  <circle cx="748" cy="122" r="73" fill="#C99A2E" opacity=".95"/>
+  <path d="M128 388 458 158l331 230v239H128Z" fill="#F6F3ED"/>
+  <path d="M91 391 458 118l368 273-34 48-334-244-333 244Z" fill="#C99A2E"/>
+  <path d="M170 424h576v203H170Z" fill="#E8E1D6"/>
+  <rect x="247" y="469" width="104" height="158" fill="#10243A"/>
+  <rect x="438" y="467" width="106" height="85" fill="#3F6F8F"/>
+  <rect x="588" y="467" width="106" height="85" fill="#3F6F8F"/>
+  <path d="M438 511h106M491 467v85M588 511h106M641 467v85" stroke="#F6F3ED" stroke-width="8"/>
+  <rect x="219" y="641" width="532" height="31" fill="#2F353A"/>
+  <path d="M112 672h696" stroke="#C99A2E" stroke-width="10" stroke-linecap="round"/>
+  <g transform="translate(619 298)">
+    <rect width="136" height="42" rx="6" fill="#9E3F32"/>
+    <path d="M19 42v-80h98v80" fill="none" stroke="#E8E1D6" stroke-width="13"/>
+    <path d="M7-38h122" stroke="#C99A2E" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(86 517)">
+    <rect x="0" y="38" width="118" height="84" rx="10" fill="#4D6A56"/>
+    <path d="M27 38V17c0-19 16-31 32-31s32 12 32 31v21" fill="none" stroke="#C99A2E" stroke-width="12"/>
+    <path d="M28 76h62M28 98h42" stroke="#F6F3ED" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(742 527)">
+    <path d="M40 0h42l21 28-42 74H18L0 73Z" fill="#C99A2E"/>
+    <path d="M35 30h34M26 55h51" stroke="#10243A" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <path d="M180 334c82-48 139-74 256-70 132 5 191 40 290 104" fill="none" stroke="#F6F3ED" stroke-width="5" opacity=".35"/>
+</svg>

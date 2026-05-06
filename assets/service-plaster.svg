@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+  <title id="title">Plaster and wall repair visual</title>
+  <desc id="desc">Wall repair, smoothing and finish preparation shown with a clean trade visual.</desc>
+  <rect width="720" height="540" fill="#E8E1D6"/>
+  <path d="M0 400h720v140H0Z" fill="#10243A"/>
+  <rect x="104" y="92" width="512" height="308" rx="8" fill="#F6F3ED" stroke="#10243A" stroke-width="11"/>
+  <path d="M183 186c58-39 109-44 154-13 35 24 67 18 104-16 27-25 62-27 104-5" fill="none" stroke="#9E3F32" stroke-width="14" stroke-linecap="round"/>
+  <path d="M187 259h347" stroke="#C99A2E" stroke-width="20" stroke-linecap="round"/>
+  <path d="M187 315h231" stroke="#3F6F8F" stroke-width="20" stroke-linecap="round"/>
+  <rect x="454" y="344" width="119" height="75" rx="9" fill="#4D6A56"/>
+  <path d="M477 344v-32h73v32" fill="none" stroke="#C99A2E" stroke-width="12"/>
+</svg>
